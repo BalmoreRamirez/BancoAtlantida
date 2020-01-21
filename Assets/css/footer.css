@@ -1,5 +1,5 @@
 .fo {
-    height: 180px;
+    height: 200px;
     background-color: #d8272f;
 
 }
@@ -22,5 +22,31 @@ a {
 
 #btnAyuda {
     width: 75%;
+    color: #d8272f;
 
+}
+
+.menufooter {
+    text-align: center;
+
+}
+
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: #fff;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 }
