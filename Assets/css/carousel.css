@@ -1,0 +1,18 @@
+  #encabezado{
+   background-color: red;
+   height: 65px;
+   border-radius: 20px 20px 0 0;
+ }
+ #carru{
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+}
+#car{
+  height: 200px;
+  width: 200px;
+
+}
+#con{
+  height: 550px;
+}
