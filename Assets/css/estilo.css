@@ -1,0 +1,28 @@
+.fo {
+    height: 180px;
+    background-color: #d8272f;
+
+}
+
+a {
+    color: white;
+}
+
+#fot {
+    height: 70px;
+    background-color: #b3282d;
+}
+
+#icno {
+    margin-top: 80px;
+    margin-left: 80px;
+    height: 50px;
+    width: 200px;
+}
+
+#btnAyuda {
+    width: 75%;
+
+}
+
+/*fin del footer*/
