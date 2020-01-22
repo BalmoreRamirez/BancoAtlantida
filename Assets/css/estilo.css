@@ -1,0 +1,64 @@
+.fo {
+    height: 190px;
+    background-color: #d8272f;
+
+}
+
+a {
+    color: white;
+}
+
+#fot {
+    height: 70px;
+    background-color: #b3282d;
+}
+
+#logo {
+    margin-top: 80px;
+    margin-left: 50px;
+    height: 50px;
+    width: 200px;
+}
+
+#btnAyuda {
+    width: 83%;
+    font-size: medium;
+
+}
+
+#Moreinfo{
+    text-align: left;
+    padding-top: 10px;
+    
+}
+.blockone{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.line{
+   border-left: 1px solid white;
+   height: 90px;
+}
+.contact-center{
+    background: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 50%;
+    text-align: center;
+    color: red;
+    display: block;
+    margin: 0 auto;
+    
+}
+/*<!-----------form contact------------>*/
+.contact{
+    background-color: black;
+    height: 500px;
+}
+.formInfo{
+    height: 380px;
+    background-color: white;
+    border-radius: 11px;
+    margin-left: 600px;
+}
