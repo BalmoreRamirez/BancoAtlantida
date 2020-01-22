@@ -53,12 +53,14 @@ a {
 }
 /*<!-----------form contact------------>*/
 .contact{
-    background-color: black;
-    height: 500px;
+    background-image:url('Assets/img/h3.jpg');
+    height: 600px;
+    
 }
 .formInfo{
-    height: 380px;
+    height: 450px;
     background-color: white;
     border-radius: 11px;
     margin-left: 600px;
+    margin-top: 55px;
 }
