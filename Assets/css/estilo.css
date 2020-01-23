@@ -53,7 +53,7 @@ a {
 }
 /*<!-----------form contact------------>*/
 .contact{
-    background-image:url('Assets/img/h3.jpg');
+    background-image:url('/Assets/img/h3.jpg');
     height: 600px;
     
 }
