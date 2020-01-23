@@ -55,12 +55,21 @@ a {
 .contact{
     background-image:url('/Assets/img/h3.jpg');
     height: 600px;
+    border-radius: 20px;
+    
     
 }
 .formInfo{
-    height: 450px;
+    height: 500px;
     background-color: white;
     border-radius: 11px;
     margin-left: 600px;
     margin-top: 55px;
+}
+form{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+form #endbutton{
+    width: 100px;
 }
